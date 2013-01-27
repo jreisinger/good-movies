@@ -1,0 +1,1253 @@
+Id: 0060315
+Title: Django
+Year: 1966
+Genres: Western
+Plot Symmary: A coffin-dragging gunslinger enters a town caught between two feuding factions, the KKK and a gang of Mexican Bandits. That man is Django, and he is caught up in a struggle against both parties.
+Rating: 7.3 (8754)
+
+Id: 0063850
+Title: If....
+Year: 1968
+Genres: Drama
+Plot Symmary: In this allegorical story, a revolution lead by pupil Mick Travis takes place at an old established private school in England.
+Rating: 7.7 (11179)
+
+Id: 0024473
+Title: The Private Life of Henry VIII.
+Year: 1933
+Genres: Biography Comedy Drama History
+Plot Symmary: Tells how King Henry VIII came to marry five more times after his divorce from his first wife.
+Rating: 7.3 (1698)
+
+Id: 0079615
+Title: Uncle Marin, the Billionaire
+Year: 1979
+Genres: Comedy
+Plot Symmary: A paysan (Nea Marin) is mistaken for a millionaire (Mr. Juvett) to whom he looks exactly like.
+Rating: 8.0 (1634)
+
+Id: 1194238
+Title: Polytechnique
+Year: 2009
+Genres: Crime Drama History
+Plot Symmary: A dramatization of the Montreal Massacre of 1989 where several female engineering students were murdered by an unstable misogynist.
+Rating: 7.2 (1977)
+
+Id: 0018806
+Title: The Crowd
+Year: 1928
+Genres: Drama Romance
+Plot Symmary: The life of a man and woman together in a large, impersonal metropolis through their hopes, struggles and downfalls.
+Rating: 8.0 (3967)
+
+Id: 0028356
+Title: These Three
+Year: 1936
+Genres: Drama Romance
+Plot Symmary: This first film version of "The Children's Hour" uses a heterosexual triangle rather than the play's lesbian theme... See full summary »
+Rating: 7.6 (1123)
+
+Id: 0026071
+Title: Anna Karenina
+Year: 1935
+Genres: Drama Romance
+Plot Symmary: The married Anna Karenina falls in love with Count Vronsky despite her husband's refusal to grant a divorce, and both must contend with the social repercussions.
+Rating: 7.1 (2614)
+
+Id: 0814314
+Title: Seven Pounds
+Year: 2008
+Genres: Drama
+Plot Symmary: An aerospace engineer with a fateful secret embarks on an extraordinary journey of redemption by forever changing the lives of seven strangers.
+Rating: 7.5 (141107)
+
+Id: 0084509
+Title: The Plague Dogs
+Year: 1982
+Genres: Adventure Animation Drama
+Plot Symmary: Two dogs escape from a laboratory and are hunted as possible carriers of the bubonic plague.
+Rating: 7.7 (2300)
+
+Id: 0317510
+Title: Final Fantasy X-2
+Year: 2003
+Genres: Action Adventure Comedy Fantasy Music Mystery Romance Sci-Fi Thriller
+Plot Symmary: Convinced that Tidus is still alive, Yuna embarks on a quest to find him.
+Rating: 7.1 (1344)
+
+Id: 0080678
+Title: Sloni muz
+Year: 1980
+Genres: Biography Drama
+Plot Symmary: A Victorian surgeon rescues a heavily disfigured man who is mistreated while scraping a living as a side-show freak. Behind his monstrous facade, there is revealed a person of intelligence and sensitivity.
+Rating: 8.3 (95286)
+
+Id: 0122365
+Title: Wacky Races
+Year: 1968-1970
+Genres: Animation Family Sport
+Plot Symmary: The participants of an unusual car race compete around America.
+Rating: 7.6 (1294)
+
+Id: 0086831
+Title: Yes, Prime Minister
+Year: 1986-1987
+Genres: Comedy
+Plot Symmary: Caught off-guard by the sudden retirement of the Prime Minister, Sir Humphrey and his civil service allies soon get their house-trained minister, James Hacker, elevated to the top job.
+Rating: 8.7 (2424)
+
+Id: 0279079
+Title: Father and Daughter
+Year: 2001
+Genres: Short Animation Drama
+Plot Symmary: A father says goodbye to his young daughter. In time the daughter grows old, but within her there is always a deep longing for her father.
+Rating: 7.9 (2048)
+
+Id: 0118715
+Title: Big Lebowski
+Year: 1998
+Genres: Comedy Crime
+Plot Symmary: "Dude" Lebowski, mistaken for a millionaire Lebowski, seeks restitution for his ruined rug and enlists his bowling buddies to help get it.
+Rating: 8.2 (294686)
+
+Id: 0361217
+Title: Nip/Tuck
+Year: 2003-2010
+Genres: Drama
+Plot Symmary: Sean McNamara and Christian Troy are two plastic surgeons running a partnership in Miami, Florida with different issues to life... See full summary »
+Rating: 7.7 (32130)
+
+Id: 0088040
+Title: The Holy Innocents
+Year: 1984
+Genres: Drama
+Plot Symmary: Spain, 1960's. People from a very poor family work in the country, at the service of a rich family of landowners...
+Rating: 8.0 (1325)
+
+Id: 0169858
+Title: Neon Genesis Evangelion: The End of Evangelion
+Year: 1997
+Genres: Animation Action Drama Fantasy Sci-Fi
+Plot Symmary: Concurrent theatrical ending of the TV series "Shin Seiki Evangelion" (1995).
+Rating: 8.0 (10395)
+
+Id: 0067803
+Title: Summer of '42
+Year: 1971
+Genres: Comedy Drama
+Plot Symmary: During his summer vacation on Nantucket Island in 1942, a youth eagerly awaiting his first sexual encounter finds himself developing an innocent love for a young woman awaiting news on her soldier husband's fate in WWII.
+Rating: 7.2 (3558)
+
+Id: 0216651
+Title: Vampire Hunter D: Bloodlust
+Year: 2000
+Genres: Animation Action Adventure Fantasy Mystery Sci-Fi
+Plot Symmary: Hunters race to save a girl stolen from her home by a vampire.
+Rating: 7.7 (15729)
+
+Id: 0085112
+Title: The Winds of War
+Year: 1983- 
+Genres: Drama Romance War
+Plot Symmary: In the late 1930s, world politics begin to head in a dangerous direction. In Europe, Germany expands and rearms and proceeds to annex several border countries into the Reich... See full summary »
+Rating: 8.2 (1730)
+
+Id: 0334874
+Title: Ultimate Force
+Year: 2002-2006
+Genres: Action War
+Plot Symmary: This action adventure series follows the exploits of Sergeant Henno Garvie and his colleagues who make up Red Troop... See full summary »
+Rating: 7.8 (1216)
+
+Id: 0089619
+Title: "Moonlighting" Moonlighting
+Year: 
+Genres: Comedy Drama Mystery Romance
+Plot Symmary: This is the pilot episode of the "Moonlighting" (1985) television series. Madeline 'Maddie' Hayes... See full summary »
+Rating: 7.3 (1850)
+
+Id: 0120735
+Title: Lock, Stock and Two Smoking Barrels
+Year: 1998
+Genres: Crime Thriller
+Plot Symmary: Four London working class stiffs pool their money to put one in a high stakes card game, but things go wrong and they end up owing half a million pounds and having one week to come up with the cash.
+Rating: 8.2 (233335)
+
+Id: 0085334
+Title: A Christmas Story
+Year: 1983
+Genres: Comedy Family
+Plot Symmary: Ralphie has to convince his parents, teachers, and Santa that a Red Ryder B.B. gun really is the perfect gift for the 1940s.
+Rating: 8.0 (71063)
+
+Id: 1000259
+Title: "Doctor Who" Utopia
+Year: 2007
+Genres: Adventure Drama Family Sci-Fi
+Plot Symmary: Soon after bumping into old friend Jack Harkness, Martha and The Doctor head off to Malcassairo, a distant planet where an old professor will do anything he can to keep his people alive...
+Rating: 8.6 (1353)
+
+Id: 0095082
+Title: Eight Men Out
+Year: 1988
+Genres: Drama History Sport
+Plot Symmary: A dramatization of the Black Sox scandal when the underpaid Chicago White Sox accepted bribes to deliberately lose the 1919 World Series.
+Rating: 7.2 (10914)
+
+Id: 0075040
+Title: Seven Beauties
+Year: 1975
+Genres: Comedy Drama War
+Plot Symmary: Pasqualino Settebellezze è un giovane malavitoso napoletano che decide di commettere un crimine per farsi un nome in quel mondo... See full summary »
+Rating: 7.7 (2455)
+
+Id: 0793131
+Title: "Nezvestni" Live Together, Die Alone
+Year: 2006
+Genres: Adventure Drama Fantasy Mystery Sci-Fi Thriller
+Plot Symmary: After discovering a sailboat just offshore containing former hatch oversee Desmond, Jack and Sayid come up with a plan to confront "The Others" and hopefully get Walt back. Meanwhile, Eko and Locke come to blows as Locke makes a potentially cataclysmic decision regarding the "button" and the hatch.
+Rating: 9.4 (2457)
+
+Id: 0345389
+Title: Four Shades of Brown
+Year: 2004
+Genres: Comedy Drama
+Plot Symmary: 
+Rating: 7.3 (2725)
+
+Id: 0094754
+Title: Blackadder's Christmas Carol
+Year: 1988
+Genres: Short Comedy History
+Plot Symmary: Pleasant Ebenezer Blackadder is turned into a cruel and witty miser after seeing visions of his ancestors and descendants.
+Rating: 8.0 (4263)
+
+Id: 0310775
+Title: Sympathy for Mr. Vengeance
+Year: 2002
+Genres: Crime Drama
+Plot Symmary: A recently laid off factory worker kidnaps his former boss' daughter, hoping to use the ransom money to pay for his sister's kidney transplant.
+Rating: 7.7 (27846)
+
+Id: 0069303
+Title: Sounder
+Year: 1972
+Genres: Drama Family
+Plot Symmary: The son of a family of black sharecroppers comes of age in the Depression-era South after his father is imprisoned for stealing food.
+Rating: 7.6 (1733)
+
+Id: 0036506
+Title: Day of Wrath
+Year: 1943
+Genres: Drama Romance
+Plot Symmary: The young wife of an aging priest falls in love with his son amidst the horror of a merciless witch hunt in 17th century Denmark.
+Rating: 7.9 (4539)
+
+Id: 0092312
+Title: 21 Jump Street
+Year: 1987-1991
+Genres: Crime Drama Mystery
+Plot Symmary: The cases of an undercover police unit composed of young looking officers specializing in youth crime.
+Rating: 7.1 (4936)
+
+Id: 0320661
+Title: Kralovstvo nebeske
+Year: 2005
+Genres: Action Adventure Drama History War
+Plot Symmary: Balian of Ibelin travels to Jerusalem during the crusades of the 12th century, and there he finds himself as the defender of the city and its people.
+Rating: 7.1 (135647)
+
+Id: 0188404
+Title: Dexter the Dragon & Bumble the Bear
+Year: 1983
+Genres: Animation Family Fantasy
+Plot Symmary: Bumble the Bear (Olivier Bommel) finds an egg that, it turns out, has a cute little dragon in it. However, this dinosaur grows huge every time it is upset. As this causes a lot of problems, Ollie Bommel has to face a difficult dilemma.
+Rating: 7.2 (1028)
+
+Id: 0948530
+Title: Moscow, Belgium
+Year: 2008
+Genres: Comedy Drama Romance
+Plot Symmary: Matty, a 41-year old mother of three with a husband in his midlife-crisis, meets 29-year old Johnny, a truck driver, who takes an interest in her.
+Rating: 7.2 (2034)
+
+Id: 0253614
+Title: Saban, Son of Saban
+Year: 1977
+Genres: Comedy Crime
+Plot Symmary: The commander of the army constantly angered Husamettin'i Saban, after discharge to a friend instrumentalist health Ramazan begins... See full summary »
+Rating: 8.3 (6041)
+
+Id: 0898367
+Title: The Road
+Year: 2009
+Genres: Adventure Drama
+Plot Symmary: A post-apocalyptic tale of a man and his son trying to survive by any means possible.
+Rating: 7.3 (102977)
+
+Id: 0156610
+Title: The Hole
+Year: 1998
+Genres: Drama Fantasy Musical
+Plot Symmary: 
+Rating: 7.5 (1736)
+
+Id: 1847731
+Title: Tomboy
+Year: 2011
+Genres: Drama
+Plot Symmary: A 10-year-old girl, settling into her new neighborhood outside Paris, is mistaken for a boy and has to live up to this new identity since it's too late for the mistake to be clarified.
+Rating: 7.3 (5281)
+
+Id: 0114745
+Title: The Tuskegee Airmen
+Year: 1995
+Genres: Drama History War
+Plot Symmary: The true story of how a group of African American pilots overcame racist opposition to become one of the finest US fighter groups in World War II
+Rating: 7.1 (2988)
+
+Id: 0092337
+Title: Dekalog
+Year: 1988- 
+Genres: Drama
+Plot Symmary: Ten television drama films, each one based on one of the Ten Commandments.
+Rating: 9.1 (7585)
+
+Id: 0070355
+Title: Magnum Force
+Year: 1973
+Genres: Action Mystery Thriller
+Plot Symmary: Dirty Harry is on the trail of vigilante cops who are not above going beyond the law to kill the city's undesirables.
+Rating: 7.1 (26711)
+
+Id: 1492966
+Title: Louie
+Year: 2010- 
+Genres: Comedy Drama
+Plot Symmary: Sitcom in which we follow Louie's everyday ordeals, quest to find love and pursuit of humor.
+Rating: 8.7 (21267)
+
+Id: 1754920
+Title: Yeh Saali Zindagi
+Year: 2011
+Genres: Crime Drama Thriller
+Plot Symmary: Gangsters kidnap the prospective son-in-law of a politician in order to secure the release of an imprisoned gang-member.
+Rating: 7.4 (2095)
+
+Id: 1916728
+Title: Shor in the City
+Year: 2011
+Genres: Crime Drama
+Plot Symmary: Various residents and career-criminals face challenges in crime-laden Mumbai.
+Rating: 7.2 (1473)
+
+Id: 1349453
+Title: King of Devil's Island
+Year: 2010
+Genres: Drama Action
+Plot Symmary: Norwegian winter, early 20th century. On the boys home Bastoy, a new inmate leads the boys to a violent uprising against a brutal regime. How far is he willing to go to attain freedom?
+Rating: 7.3 (5361)
+
+Id: 0092978
+Title: Escape from Sobibor
+Year: 1987
+Genres: Drama Thriller War
+Plot Symmary: During WWII, the death camp at Treblinka had an escape, causing the Commandant at a similar camp in Sobibor to vow that his camp would never experience the same thing... See full summary »
+Rating: 7.4 (4167)
+
+Id: 0116581
+Title: The Eighth Day
+Year: 1996
+Genres: Comedy Drama
+Plot Symmary: Georges has Down's syndrome, living at a mental-institution. Harry is a busy businessman, giving lectures for young aspiring salesmen... See full summary »
+Rating: 7.3 (4764)
+
+Id: 0108962
+Title: To Play the King
+Year: 1993- 
+Genres: Drama
+Plot Symmary: Francis Urquhart, unscrupulous but cunning Conservative politician, managed to become the British prime minister and crush all significant opposition... See full summary »
+Rating: 8.5 (1008)
+
+Id: 0089606
+Title: My Life as a Dog
+Year: 1985
+Genres: Drama Comedy
+Plot Symmary: A boy and his brother don't get along well. In order to let their ill mother rest, they're separated and sent each one with their relatives.
+Rating: 7.6 (10100)
+
+Id: 0097937
+Title: My Left Foot
+Year: 1989
+Genres: Biography Drama
+Plot Symmary: The story of Christy Brown, who was born with cerebral palsy. He learned to paint and write with his only controllable limb - his left foot.
+Rating: 7.8 (27710)
+
+Id: 1068646
+Title: The Class
+Year: 2008
+Genres: Drama
+Plot Symmary: Teacher and novelist François Bégaudeau plays a version of himself as he negotiates a year with his racially mixed students from a tough Parisian neighborhood.
+Rating: 7.6 (18977)
+
+Id: 1054728
+Title: "Breaking Bad" Crazy Handful of Nothin'
+Year: 2008- 
+Genres:  Crime  Drama  Thriller
+Plot Symmary: 
+Rating: 9.0 (1426)
+
+Id: 0110426
+Title: Macross Plus
+Year: 1994- 
+Genres:  Animation  Sci-Fi
+Plot Symmary: 
+Rating: 7.6 (2236)
+
+Id: 0105851
+Title: Xia dao Gao Fei
+Year: 1992
+Genres:  Action  Crime  Drama  Thriller
+Plot Symmary: 
+Rating: 7.1 (2284)
+
+Id: 0410369
+Title: Neredesin Firuze
+Year: 2004
+Genres:  Comedy  Musical
+Plot Symmary: 
+Rating: 7.1 (2766)
+
+Id: 0795349
+Title: Call of Duty 3
+Year: 2006
+Genres: Action Adventure War
+Plot Symmary: 
+Rating: 7.4 (1203)
+
+Id: 0087650
+Title: Love and Doves
+Year: 1985
+Genres: Comedy Romance
+Plot Symmary: Shown a life in the remote siberian village. Vasia, who never leave his family, village, comes to pass summer holiday on the Black Sea... See full summary »
+Rating: 7.8 (1007)
+
+Id: 0063869
+Title: The Benny Hill Show
+Year: 1969-1989
+Genres: Comedy
+Plot Symmary: A skit based show with Benny Hill, often containing smutty humour.
+Rating: 7.4 (1690)
+
+Id: 1282022
+Title: Batman: Arkham Asylum
+Year: 2009
+Genres: Action Crime Fantasy Horror Thriller
+Plot Symmary: You control Batman as he fights to subdue The Joker and his fellows when they seize control of the forensic mental hospital.
+Rating: 9.5 (7091)
+
+Id: 0080196
+Title: Berlin Alexanderplatz
+Year: 1980- 
+Genres: Drama
+Plot Symmary: This film, which is basically the longest narrative film ever made, is a 15-1/2 hour episodic exploration of the character of Franz Biberkopf... See full summary »
+Rating: 8.7 (2119)
+
+Id: 0111958
+Title: Father Ted
+Year: 1995-1998
+Genres: Comedy
+Plot Symmary: Crazy sitcom about 3 priests and their housekeeper who live on Craggy Island, not the peaceful and quiet part of Ireland it seems!
+Rating: 8.7 (12399)
+
+Id: 0761294
+Title: "South Park" Trapped in the Closet
+Year: 2005
+Genres: Animation Comedy
+Plot Symmary: After Stan scores a remarkably high "Thetan Level" at a Scientology center, he is considered to be the reincarnation of Scientology founder L... See full summary »
+Rating: 9.1 (1415)
+
+Id: 0028249
+Title: Show Boat
+Year: 1936
+Genres: Comedy Drama Musical Romance
+Plot Symmary: Despite her mother's objections, the naive young daughter of a show boat captain is thrust into the limelight as the company's new leading lady.
+Rating: 7.6 (1522)
+
+Id: 0482518
+Title: Gun
+Year: 2005
+Genres: Action Western
+Plot Symmary: Gun takes gamers to the untamed West of the late-1800s where greed, lust and murder are rampant.
+Rating: 8.5 (1167)
+
+Id: 1512201
+Title: Last Train Home
+Year: 2009
+Genres: Documentary Drama
+Plot Symmary: A couple embarks on a journey home for Chinese new year along with 130 million other migrant workers, to reunite with their children and struggle for a future. Their unseen story plays out as China soars towards being a world superpower.
+Rating: 7.6 (1702)
+
+Id: 0033704
+Title: Hellzapoppin'
+Year: 1941
+Genres: Comedy
+Plot Symmary: Ole and Chick are making a movie, but the director is not satisfied. So he brings them to a young writer... See full summary »
+Rating: 7.5 (1274)
+
+Id: 1444429
+Title: "Dexter" Hungry Man
+Year: 2009
+Genres: Crime Drama Mystery Thriller
+Plot Symmary: Dexter stops by Arthur's house for a visit and realizes that though Arthur is in appearance the happy family man... See full summary »
+Rating: 9.3 (1410)
+
+Id: 1705786
+Title: Chinese Take-Away
+Year: 2011
+Genres: Drama
+Plot Symmary: In Buenos Aires, the bitter and methodic Roberto is a lonely man and the owner of a hardware store.... See full summary »
+Rating: 7.2 (4471)
+
+Id: 0396184
+Title: With Blood on My Hands: Pusher II
+Year: 2004
+Genres: Action Crime Drama Thriller
+Plot Symmary: Tony is released from prison - again. This time he has his mind set on changing his broken down life, but that is easier said than done.
+Rating: 7.2 (6430)
+
+Id: 0948538
+Title: Journeyman
+Year: 2007- 
+Genres: Fantasy Romance Sci-Fi
+Plot Symmary: A man travels back in time to help people in trouble.
+Rating: 8.1 (4952)
+
+Id: 1533421
+Title: "Nezvestni" The Substitute
+Year: 2010
+Genres: Adventure Drama Fantasy Mystery Sci-Fi Thriller
+Plot Symmary: On the island, the being now occupying Locke's body turns to Sawyer and promises to tell him why he's on the island. Back in Los Angeles, Locke loses his job and encounters a number of familiar faces.
+Rating: 8.2 (1139)
+
+Id: 0636273
+Title: "Nezvestni" Born to Run
+Year: 2005
+Genres: Adventure Drama Fantasy Mystery Sci-Fi Thriller
+Plot Symmary: Jack suspects foul play when Michael becomes violently ill while building the raft. Meanwhile a secret from Kate's past is revealed, the mysterious hatch is shown to a few of the survivors, and Walt gives Locke a warning.
+Rating: 8.2 (1396)
+
+Id: 0078326
+Title: Straight Time
+Year: 1978
+Genres: Crime Drama
+Plot Symmary: After being released on parole, a burglar attempts to go straight, get a regular job, and just go by the rules... See full summary »
+Rating: 7.3 (3179)
+
+Id: 0151804
+Title: Office Space
+Year: 1999
+Genres: Comedy Crime
+Plot Symmary: Comedic tale of company workers who hate their jobs and decide to rebel against their greedy boss.
+Rating: 7.8 (129602)
+
+Id: 0375611
+Title: Black
+Year: 2005
+Genres: Drama
+Plot Symmary: The cathartic tale of a deaf, mute and blind girl, and her teacher who brings a ray of light into her world of BLACK.
+Rating: 8.1 (11276)
+
+Id: 0080388
+Title: Atlantic City
+Year: 1980
+Genres: Crime Drama Romance
+Plot Symmary: Lou is a small time gangster, who thinks he used to be something big. He meets up with a younger girl... See full summary »
+Rating: 7.4 (7515)
+
+Id: 0023293
+Title: The Old Dark House
+Year: 1932
+Genres: Comedy Horror
+Plot Symmary: Seeking shelter from a storm, five travelers are in for a bizarre and terrifying night when the stumble upon the Femm family estate.
+Rating: 7.3 (3383)
+
+Id: 0071003
+Title: Kolchak: The Night Stalker
+Year: 1974-1975
+Genres: Comedy Horror Mystery Thriller
+Plot Symmary: A newspaper reporter investigates strange supernatural occurrences in Chicago.
+Rating: 8.5 (1383)
+
+Id: 0015648
+Title: Battleship Potemkin
+Year: 1925
+Genres: Drama History
+Plot Symmary: A dramatized account of a great Russian naval mutiny and a resulting street demonstration which brought on a police massacre.
+Rating: 8.1 (25978)
+
+Id: 0498380
+Title: Listy z Iwo Jima
+Year: 2006
+Genres: Drama History War
+Plot Symmary: The story of the battle of Iwo Jima between the United States and Imperial Japan during World War II, as told from the perspective of the Japanese who fought it.
+Rating: 8.0 (94130)
+
+Id: 0067144
+Title: The Go-Between
+Year: 1970
+Genres: Drama Romance
+Plot Symmary: Tale of torrid and forbidden love between Christie and Bates in the English countryside.
+Rating: 7.4 (2217)
+
+Id: 0106489
+Title: A Bronx Tale
+Year: 1993
+Genres: Crime Drama
+Plot Symmary: A father becomes worried when a local gangster befriends his son in the Bronx in the 1960s.
+Rating: 7.7 (56775)
+
+Id: 1837642
+Title: Revenge
+Year: 2011- 
+Genres: Drama Mystery Thriller
+Plot Symmary: Centers on a young woman who is welcomed into a community filled with people who don't know she's only there to exact revenge on those who had destroyed her family.
+Rating: 8.3 (38238)
+
+Id: 0057611
+Title: The Silence
+Year: 1963
+Genres: Drama
+Plot Symmary: "The Silence" is about the emotional distance between two sisters. The younger one is still attractive enough to pick up a lover in a strange city... See full summary »
+Rating: 7.9 (7565)
+
+Id: 0054176
+Title: Peter Pan
+Year: 1960
+Genres: Comedy Family Fantasy Musical
+Plot Symmary: In this magical tale about the boy who refuses to grow up, Peter Pan and his mischievous fairy sidekick Tinkerbell visit the nursery of Wendy... See full summary »
+Rating: 7.2 (1061)
+
+Id: 1342711
+Title: Man v. Food
+Year: 2008- 
+Genres: Reality-TV
+Plot Symmary: Host Adam Richman travels around the U.S., taking on a variety of local eating challenges involving meal size, spiciness and other daunting factors.
+Rating: 7.6 (2517)
+
+Id: 1510938
+Title: The Sunset Limited
+Year: 2011
+Genres: Drama
+Plot Symmary: Two men in an apartment with their opposing beliefs.
+Rating: 7.3 (11635)
+
+Id: 0029440
+Title: The Prince and the Pauper
+Year: 1937
+Genres: Adventure Drama Family Fantasy
+Plot Symmary: Two lookalike boys, one a poor street kid and the other a prince, exchange places to see what the other's life is like.
+Rating: 7.2 (1281)
+
+Id: 0751116
+Title: "The X Files" Eve
+Year: 1993
+Genres: Drama Mystery Sci-Fi Thriller
+Plot Symmary: Scully and Mulder are called into investigate a strange case of a man found sitting in his backyard having been exsanguinated and having two bite marks on his neck... See full summary »
+Rating: 8.1 (1232)
+
+Id: 0103408
+Title: Eek! the Cat
+Year: 1992-1997
+Genres: Animation Comedy Family
+Plot Symmary: The comical misadventures of Eek, a kind-hearted purple cat who finds himself in constant mortal danger.
+Rating: 7.4 (1167)
+
+Id: 1576519
+Title: "Family Guy" Something, Something, Something, Dark Side
+Year: 2009
+Genres: Animation Comedy
+Plot Symmary: The saga continues where Blue Harvest left off. This is the family guy take on The Empire Strikes Back. It starts out with the family watching tv and the power gets cut... See full synopsis »
+Rating: 7.6 (3259)
+
+Id: 0292861
+Title: Undergrads
+Year: 2001- 
+Genres: Animation Comedy
+Plot Symmary: The misadventures of a group of childhood friends who keep in touch even while they go to separate colleges.
+Rating: 7.7 (1422)
+
+Id: 0385017
+Title: In My Father's Den
+Year: 2004
+Genres: Mystery Drama Thriller
+Plot Symmary: A disillusioned war journalist's return home is blighted when he becomes implicated in the mysterious disappearance of a teenage girl he has befriended.
+Rating: 7.6 (4569)
+
+Id: 0110632
+Title: Taki normalni zabijaci
+Year: 1994
+Genres: Crime Drama Thriller
+Plot Symmary: Two victims of traumatized childhoods become lovers and psychopathic serial murderers irresponsibly glorified by the mass media.
+Rating: 7.2 (111343)
+
+Id: 0636299
+Title: "Nezvestni" The Other 48 Days
+Year: 2005
+Genres: Adventure Drama Fantasy Mystery Sci-Fi Thriller
+Plot Symmary: 48 days ago, the tail section of Flight 815 crashes. The survivors struggle to live when some other people on the island continue to kidnap some of them.
+Rating: 8.9 (1672)
+
+Id: 0066026
+Title: MASH
+Year: 1970
+Genres: Comedy War Drama
+Plot Symmary: The staff of a Korean War field hospital use humor and hijinks to keep their sanity in the face of the horror of war.
+Rating: 7.7 (38405)
+
+Id: 0084904
+Title: Wild Style
+Year: 1983
+Genres: Documentary Drama Music
+Plot Symmary: Legendary New York graffiti artist Lee Quinones plays the part of Zoro, the city's hottest and most elusive graffiti writer... See full summary »
+Rating: 7.1 (1024)
+
+Id: 0362227
+Title: The Terminal
+Year: 2004
+Genres: Comedy Drama
+Plot Symmary: An eastern immigrant finds himself stranded in JFK airport, and must take up temporary residence there.
+Rating: 7.2 (165300)
+
+Id: 0041452
+Title: The Heiress
+Year: 1949
+Genres: Drama Romance
+Plot Symmary: A young naive woman falls for a handsome young man who her emotionally abusive father suspects is a fortune hunter.
+Rating: 8.1 (6409)
+
+Id: 0083260
+Title: Bolero
+Year: 1981
+Genres: Drama Music
+Plot Symmary: Trough fabulous Music this movie tracks three generations of musicians and dancers from Russia, Germany... See full summary »
+Rating: 7.1 (1404)
+
+Id: 0061496
+Title: Prescription: Murder
+Year: 1968
+Genres: Crime Drama Mystery
+Plot Symmary: A psychiatrist uses a patient he is having an affair with to help him kill his wife, but his perfect alibi may come apart at the hands of a seemingly befuddled LAPD lieutenant.
+Rating: 7.6 (1202)
+
+Id: 0141842
+Title: Sopranovci
+Year: 1999-2007
+Genres: Crime Drama
+Plot Symmary: Modern day morality tale about New Jersey mob boss Tony Soprano, as he deals with personal and professional issues in his home and business life.
+Rating: 9.2 (81313)
+
+Id: 0060371
+Title: The Endless Summer
+Year: 1966
+Genres: Documentary Sport
+Plot Symmary: The crown jewel to ten years of Bruce Brown surfing documentaries. Brown follows two young surfers around the world in search of the perfect wave, and ends up finding quite a few in addition to some colorful local characters.
+Rating: 7.5 (2337)
+
+Id: 0790769
+Title: Kurt Cobain About a Son
+Year: 2006
+Genres: Documentary Music
+Plot Symmary: In this visual essay style documentary, intimate audio of journalist Michael Azerrad's interviews with Kurt Cobain is played over more recently photographed footage of Cobain's Washington state homes and haunts.
+Rating: 7.1 (1977)
+
+Id: 0116477
+Title: Hamlet
+Year: 1996
+Genres: Crime Drama Romance Thriller
+Plot Symmary: Hamlet, Prince of Denmark, returns home to find his father murdered and his mother remarrying the murderer, his uncle. Meanwhile, war is brewing.
+Rating: 7.7 (23062)
+
+Id: 0208990
+Title: The Son's Room
+Year: 2001
+Genres: Drama
+Plot Symmary: A psychoanalyst and his family go through profound emotional trauma when their son dies in a scuba diving accident.
+Rating: 7.3 (10284)
+
+Id: 0405266
+Title: Raincoat
+Year: 2004
+Genres: Drama Romance
+Plot Symmary: All he wanted was to see her just once. Manu was from a village in the backwoods. Neeru was the girl next door, his lost love.
+Rating: 7.2 (1651)
+
+Id: 0205666
+Title: Mission Hill
+Year: 1999-2002
+Genres: Animation Comedy Drama
+Plot Symmary: The misadventures of a group of disparate roomates who live in a hip neighbourhood in a major city.
+Rating: 8.0 (2259)
+
+Id: 0035211
+Title: The Pride of the Yankees
+Year: 1942
+Genres: Biography Drama Family Romance Sport
+Plot Symmary: The story of the life and career of the famed baseball player, Lou Gehrig.
+Rating: 7.7 (5611)
+
+Id: 0106052
+Title: Late Night with Conan O'Brien
+Year: 1993-2009
+Genres: Comedy Music Talk-Show
+Plot Symmary: Conan O'Brien, a Harvard Lampoon alumnus, hosts this late-night comedy/talk-show which is often silly and whimsical.
+Rating: 8.1 (3937)
+
+Id: 0327597
+Title: Coraline
+Year: 2009
+Genres: Animation Fantasy Thriller
+Plot Symmary: An adventurous girl finds another world that is a strangely idealized version of her frustrating home, but it has sinister secrets.
+Rating: 7.7 (83234)
+
+Id: 0119654
+Title: Men in Black
+Year: 1997
+Genres: Action Comedy Sci-Fi Thriller
+Plot Symmary: A streetwise NYPD detective joins a secret organization that polices extraterrestrial affairs on Earth.
+Rating: 7.2 (231787)
+
+Id: 0475317
+Title: Knallhart
+Year: 2006
+Genres: Crime Drama
+Plot Symmary: When Miriam splits up with her wealthy lover, she and her 15-year-old son Michael have to move from posh Zehlendorf to run-down Berlin-Neukölln... See full summary »
+Rating: 7.1 (2212)
+
+Id: 0485842
+Title: Studio 60 on the Sunset Strip
+Year: 2006-2007
+Genres: Comedy Drama
+Plot Symmary: A behind-the-scenes look at a fictional sketch-comedy TV show.
+Rating: 8.1 (12082)
+
+Id: 0126029
+Title: Shrek
+Year: 2001
+Genres: Animation Adventure Comedy Family Fantasy
+Plot Symmary: An ogre, in order to regain his swamp, travels along with an annoying donkey in order to bring a princess to a scheming lord, wishing himself King.
+Rating: 7.9 (273540)
+
+Id: 0111845
+Title: Through the Olive Trees
+Year: 1994
+Genres: Drama
+Plot Symmary: The movie focuses on one of the events in Zendegi Edame Darad (1992), and explores the relationship between the movie director... See full summary »
+Rating: 7.6 (2216)
+
+Id: 1447500
+Title: Magadheera
+Year: 2009
+Genres: Action Drama Romance
+Plot Symmary: A bike stuntman recalls his previous life as a warrior, and pursues his love's reincarnation. A sinister figure from their shared past threatens to separate them forever.
+Rating: 7.4 (2899)
+
+Id: 0110076
+Title: Hum Aapke Hain Koun...!
+Year: 1994
+Genres: Comedy Drama Musical Romance
+Plot Symmary: It tells the story of two lovers, Prem (Salman Khan) and Nisha (Madhuri Dixit). Their older siblings... See full summary »
+Rating: 7.3 (4623)
+
+Id: 0064861
+Title: Que la bete meure
+Year: 1969
+Genres: Thriller
+Plot Symmary: Single father obsessed with murdering the hit&run driver who killed his only child, poses as a screenwriter to get close to an actress who was in the death car... See full summary »
+Rating: 7.7 (1903)
+
+Id: 0705971
+Title: "South Park" The Return of the Fellowship of the Ring to the Two Towers
+Year: 2002
+Genres: Animation Comedy
+Plot Symmary: Randy and Sharon realize too late that the box they have sent with the boys contains a porno rather than a copy of "The Lord Of The Rings." As the parents race to stop them in time... See full summary »
+Rating: 9.3 (1147)
+
+Id: 0070791
+Title: Theatre of Blood
+Year: 1973
+Genres: Comedy Mystery Horror
+Plot Symmary: A Shakespearean actor takes poetic revenge on the critics who denied him recognition.
+Rating: 7.1 (4357)
+
+Id: 0110074
+Title: The Hudsucker Proxy
+Year: 1994
+Genres: Comedy Drama
+Plot Symmary: A naive business graduate is installed as president of a manufacturing company as part of a stock scam.
+Rating: 7.3 (46327)
+
+Id: 1315981
+Title: A Single Man
+Year: 2009
+Genres: Drama
+Plot Symmary: An English professor, one year after the sudden death of his boyfriend, is unable to cope with his typical days in 1960s Los Angeles.
+Rating: 7.5 (50034)
+
+Id: 0191636
+Title: Prekliatie ostrova St. Pierre
+Year: 2000
+Genres: Drama Romance
+Plot Symmary: In a small French colony, a drunken man kills someone. While a guillotine is being shipped in, he changes, becoming a good and popular man.
+Rating: 7.1 (3790)
+
+Id: 0042876
+Title: Rashomon
+Year: 1950
+Genres: Crime Drama
+Plot Symmary: A heinous crime and its aftermath are recalled from differing points of view.
+Rating: 8.4 (60055)
+
+Id: 0104036
+Title: The Crying Game
+Year: 1992
+Genres: Crime Drama Romance Thriller
+Plot Symmary: A British soldier is kidnapped by IRA terrorists. He befriends one of his captors, who is drawn into the soldier's world.
+Rating: 7.3 (29121)
+
+Id: 0482463
+Title: Bella
+Year: 2006
+Genres: Drama Romance
+Plot Symmary: Sooner or later every one of us will face an irreversible moment that will change our lives forever. If it hasn't happened to you yet...it will. BELLA is a true love story about how one day in New York City changed three people forever.
+Rating: 7.2 (7886)
+
+Id: 0122136
+Title: Kuroneko
+Year: 1968
+Genres: Horror
+Plot Symmary: A woman and her daughter are raped and murdered by soldiers during a time of civil war. Afterwards,... See full summary »
+Rating: 7.6 (1571)
+
+Id: 0378261
+Title: Little Dieter Needs to Fly
+Year: 1998
+Genres: Documentary Biography Drama War
+Plot Symmary: German-American Dieter Dengler discusses his service as an American naval pilot in the Vietnam War. Dengler also revisits the sites of his capture and eventual escape from the hands of the Vietcong, recreating many events for the camera.
+Rating: 8.1 (3202)
+
+Id: 0376591
+Title: Empire Falls
+Year: 2005
+Genres: Drama Romance
+Plot Symmary: A decaying New England town is the backdrop for its unique citizens, lead by unassuming restaurant manager Miles Roby.
+Rating: 7.4 (3520)
+
+Id: 1844624
+Title: American Horror Story
+Year: 2011- 
+Genres: Drama Fantasy Horror Mystery Sci-Fi Thriller
+Plot Symmary: An anthology series that centers on different characters and locations, including a haunted house and an insane asylum.
+Rating: 8.4 (48096)
+
+Id: 0077598
+Title: Gates of Heaven
+Year: 1978
+Genres: Documentary
+Plot Symmary: A documentary about a pet cemetery in California, and the people who have pets buried there.
+Rating: 7.4 (2692)
+
+Id: 0983983
+Title: Shaun the Sheep
+Year: 2007- 
+Genres: Animation Comedy Family
+Plot Symmary: Shaun is a sheep who doesn't follow the flock - in fact, he leads them into all sorts of scrapes and scraps... See full summary »
+Rating: 8.5 (2707)
+
+Id: 1600285
+Title: "Nezvestni" The Package
+Year: 2010
+Genres: Adventure Drama Fantasy Mystery Sci-Fi Thriller
+Plot Symmary: Sun and Jin's search for each other is interrupted when Widmore's crew kidnaps Jin, and Locke heads to the other island to bring him back. In Los Angeles, Jin's job for Sun's father is sidetracked when his money is taken at customs.
+Rating: 7.9 (1130)
+
+Id: 0162200
+Title: Blazing Saddles
+Year: 1974
+Genres: Comedy Western
+Plot Symmary: To ruin a western town, a corrupt political boss appoints a black sheriff, who promptly becomes his most formidable adversary.
+Rating: 7.7 (61878)
+
+Id: 0043924
+Title: A Place in the Sun
+Year: 1951
+Genres: Drama Romance
+Plot Symmary: A poor boy gets a job working for his rich uncle and ends up falling in love with two women.
+Rating: 7.8 (9949)
+
+Id: 0114996
+Title: A Chinese Odyssey Part Two: Cinderella
+Year: 1994
+Genres: Action Adventure Comedy Fantasy Romance
+Plot Symmary: The convoluted continuation of the adventures of the time-traveling, now-human Monkey King, who attempts to fulfill his divine destiny.
+Rating: 7.8 (2417)
+
+Id: 0802999
+Title: Grand Theft Auto IV
+Year: 2008
+Genres: Action Comedy Crime Drama Thriller
+Plot Symmary: Niko Bellic comes to Liberty City, America to live the good life, but ends up having to assist his dangerously indebted cousin Roman with his financial troubles, by any (mostly illegal) means necessary.
+Rating: 9.4 (12584)
+
+Id: 0039040
+Title: To Each His Own
+Year: 1946
+Genres: Drama Romance
+Plot Symmary: An unwed mother, forced to give up her child to avoid scandal, follows her son's life from afar even as she prospers in business.
+Rating: 7.7 (1116)
+
+Id: 1967681
+Title: Suits
+Year: 2011- 
+Genres: Comedy Drama
+Plot Symmary: On the run from a drug deal gone bad, Mike Ross, a brilliant college-dropout, finds himself a job working with Harvey Specter, one of New York City's best lawyers.
+Rating: 8.9 (53157)
+
+Id: 0274497
+Title: The Ignorant Fairies
+Year: 2001
+Genres: Drama Romance
+Plot Symmary: AIDS doctor Antonia's husband is killed by a car. She gets depressed until she learns he had been cheating on her with a man... See full summary »
+Rating: 7.3 (4852)
+
+Id: 0799991
+Title: How I Celebrated the End of the World
+Year: 2006
+Genres: Drama
+Plot Symmary: In communist era Romania, people live with hope for a new life of freedom.
+Rating: 7.1 (2017)
+
+Id: 0055399
+Title: Salvatore Giuliano
+Year: 1962
+Genres: Crime Drama History Mystery War
+Plot Symmary: In 1950, 28-year-old outlaw Salvatore Giuliano is found gunned down in a Sicilian courtyard. Little is as it seems... See full summary »
+Rating: 7.4 (1102)
+
+Id: 0098724
+Title: Sex, Lies, and Videotape
+Year: 1989
+Genres: Drama
+Plot Symmary: A sexually repressed woman's husband is having an affair with her sister. The arrival of a visitor with a rather unusual fetish changes everything.
+Rating: 7.1 (25410)
+
+Id: 0332639
+Title: Together
+Year: 2002
+Genres: Drama Music
+Plot Symmary: A violin prodigy and his father travel to Beijing, where the father seeks the means to his son's success while the son struggles to accept the path laid before him.
+Rating: 7.2 (3170)
+
+Id: 0194624
+Title: Strangers with Candy
+Year: 1999-2000
+Genres: Comedy
+Plot Symmary: A 46-year-old ex-drug addict returns to high school as a freshman.
+Rating: 7.8 (2865)
+
+Id: 0047396
+Title: Rear Window
+Year: 1954
+Genres: Mystery Thriller
+Plot Symmary: A wheelchair bound photographer spies on his neighbours from his apartment window and becomes convinced one of them has committed murder.
+Rating: 8.7 (183567)
+
+Id: 0368711
+Title: End of the Century
+Year: 2003
+Genres: Documentary Biography History Music
+Plot Symmary: The story of the punk rock band The Ramones.
+Rating: 7.9 (2064)
+
+Id: 0390123
+Title: In the Realms of the Unreal
+Year: 2004
+Genres: Documentary Biography
+Plot Symmary: A documentary on Henry Darger, visionary artist, janitor, and novelist.
+Rating: 7.3 (1301)
+
+Id: 0366943
+Title: Reconstruction
+Year: 2003
+Genres: Drama Romance
+Plot Symmary: A young man who thought himself already in love with a nice girl is drawn into a literary drama when he is captured by a deep and stimulating love affair.
+Rating: 7.2 (4784)
+
+Id: 0111666
+Title: War of the Buttons
+Year: 1994
+Genres: Adventure Drama Family
+Plot Symmary: The children of Ballydowse and Carrickdowse engage in battles where they cut of the buttons, shoe-laces and underwear of their captured opponents... See full summary »
+Rating: 7.2 (2252)
+
+Id: 1811020
+Title: "Homeland" Pilot
+Year: 2011
+Genres: Crime Drama Mystery Thriller
+Plot Symmary: After being missing and presumed dead for eight years, Marine Sergeant Nicholas Brody is rescued in Iraq... See full summary »
+Rating: 8.3 (1069)
+
+Id: 0169102
+Title: Lagaan: Once Upon a Time in India
+Year: 2001
+Genres: Drama Musical Romance Sport
+Plot Symmary: The people of a small village in Victorian India stake their future on a game of cricket against their ruthless British rulers...
+Rating: 8.1 (22135)
+
+Id: 0274468
+Title: Door to Door
+Year: 2002
+Genres: Drama
+Plot Symmary: A man with cerebral palsy is determined to become a salesman.
+Rating: 7.7 (2807)
+
+Id: 0307901
+Title: 25th Hour
+Year: 2002
+Genres: Crime Drama
+Plot Symmary: Cornered by the DEA, convicted New York drug dealer Montgomery Brogan reevaluates his life in the 24 remaining hours before facing a seven-year jail term.
+Rating: 7.8 (101709)
+
+Id: 0284838
+Title: Ali G, Aiii
+Year: 2000
+Genres: Comedy
+Plot Symmary: Atraight-to-video release of clips from Da Ali G Show (original, UK series) plus unaired segments from the show, hosted by Ali G himself.
+Rating: 7.3 (1064)
+
+Id: 0100046
+Title: The Long Walk Home
+Year: 1990
+Genres: Drama History
+Plot Symmary: Two women, black and white, in 1955 Montgomery Alabama, must decide what they are going to do in response to the famous bus boycott lead by Martin Luther King.
+Rating: 7.2 (1660)
+
+Id: 0098213
+Title: Roger & Me
+Year: 1989
+Genres: Documentary History
+Plot Symmary: Director Michael Moore pursues GM CEO Roger Smith to confront him about the harm he did to Flint, Michigan with his massive downsizing.
+Rating: 7.5 (17950)
+
+Id: 0059753
+Title: "Star Trek" The Cage
+Year: 1986
+Genres: Action Adventure Sci-Fi
+Plot Symmary: Capt. Pike is held prisoner and tested by aliens who have the power to project incredibly lifelike illusions.
+Rating: 7.6 (2154)
+
+Id: 0098825
+Title: House of Cards
+Year: 1990- 
+Genres: Drama
+Plot Symmary: Francis Urquhart is the chief whip of the Conservative party. When Margaret Thatcher resigns as leader... See full summary »
+Rating: 8.9 (2030)
+
+Id: 0064177
+Title: Colossus: The Forbin Project
+Year: 1970
+Genres: Sci-Fi Thriller
+Plot Symmary: An artificially intelligent supercomputer is developed and activated, only to reveal that it has a sinister agenda of its own.
+Rating: 7.1 (3696)
+
+Id: 0076162
+Title: House
+Year: 1977
+Genres: Comedy Horror
+Plot Symmary: Oshare (Gorgeous) is excited about spending summer vacation with her father, until she finds out that his beautiful... See full summary »
+Rating: 7.3 (4924)
+
+Id: 0177822
+Title: Grim Fandango
+Year: 1998
+Genres: Adventure Comedy Crime Drama Fantasy Mystery
+Plot Symmary: Manuel Calavera is a travel agent in The Land of the Dead who has stumbled across a ring of corruption.
+Rating: 9.6 (1529)
+
+Id: 1166827
+Title: Zeitgeist
+Year: 2007
+Genres: Documentary History War
+Plot Symmary: Mythology and belief in society today, presenting uncommon perspectives of common cultural issues.
+Rating: 8.3 (28640)
+
+Id: 0125617
+Title: Due South
+Year: 1994-1999
+Genres: Adventure Drama Comedy Crime
+Plot Symmary: The cases of a cynical American police detective and a upright Royal Canadian Mounted Police constable in the city of Chicago.
+Rating: 7.9 (3023)
+
+Id: 0249174
+Title: Super Mario Bros. 3
+Year: 1988
+Genres: Action Adventure Family Fantasy
+Plot Symmary: Bowser has kidnapped Princess Toadstool, taken over all seven Kingdoms in the Mushroom World and put his seven kids in charge of all of them. It's the Mario Brothers to the rescue!
+Rating: 9.4 (1420)
+
+Id: 0327056
+Title: Tajomna rieka
+Year: 2003
+Genres: Crime Drama Mystery Thriller
+Plot Symmary: With a childhood tragedy that overshadowed their lives, three men are reunited by circumstance when one loses a daughter.
+Rating: 8.0 (215512)
+
+Id: 0090967
+Title: Down by Law
+Year: 1986
+Genres: Comedy Crime Drama
+Plot Symmary: The story of three different men in a Louisiana prison and their eventual journey.
+Rating: 7.8 (22236)
+
+Id: 0780180
+Title: Grave Decisions
+Year: 2006
+Genres: Comedy Drama
+Plot Symmary: Marcus H. Rosenmüller's first feature movie deals with a boy thinking that he is responsible for his mother's death and his unusual way to fight his feelings of guilt... See full summary »
+Rating: 7.5 (3325)
+
+Id: 1587707
+Title: Exit Through the Gift Shop
+Year: 2010
+Genres: Documentary Comedy
+Plot Symmary: The story of how an eccentric French shop keeper and amateur film maker attempted to locate and befriend Banksy... See full summary »
+Rating: 8.1 (27564)
+
+Id: 0057840
+Title: The Americanization of Emily
+Year: 1964
+Genres: Comedy Drama War
+Plot Symmary: An American naval officer's talent for living the good life in wartime is challenged when he falls in love and is sent on a dangerous mission.
+Rating: 7.3 (2457)
+
+Id: 0453729
+Title: Iqbal
+Year: 2005
+Genres: Drama
+Plot Symmary: Iqbal, the deaf and mute son of a farmer, has a passion for the game of cricket and seeks the tutelage of washed-up, alcoholic ex-player.
+Rating: 8.0 (3416)
+
+Id: 0838221
+Title: Darjeeling s rucenim obmedzenym
+Year: 2007
+Genres: Adventure Comedy Drama
+Plot Symmary: One year after their father's funeral, three brothers travel across India by train in an attempt to bond with one another.
+Rating: 7.1 (79127)
+
+Id: 0420318
+Title: The Wedding
+Year: 2004
+Genres: Comedy Drama
+Plot Symmary: Wojnar is a wealthy man who is marrying off his beautiful daughter Kasia, in a small town in present day Poland... See full summary »
+Rating: 7.4 (1164)
+
