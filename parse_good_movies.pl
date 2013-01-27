@@ -36,7 +36,7 @@ my @genres = qw(
   Western
 );
 
-my $file  = shift;
+my $file  = 'good_movies.txt';
 my $genre = shift;
 
 my @movies; # AoH containg movies
